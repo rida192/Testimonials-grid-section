@@ -63,7 +63,7 @@ ul{
 main{
     min-height: 100vh;
     background-color: var(--Light-grayish-blue);
-    padding: 19.5rem 0 5rem;
+    padding: 14rem 0 5rem;
 }
 @media (max-width:767px){
     main{
@@ -84,7 +84,7 @@ main .container{
     grid-template-columns: repeat(4,1fr);
     row-gap: 2rem;
     column-gap: 3.9rem;
-    width: 85%;
+    width: 96%;
 }
 }
 .box{
